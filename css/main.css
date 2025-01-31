@@ -72,6 +72,7 @@ html {
     display: flex;
     gap: 3.3rem;
     justify-content: center;
+    flex-direction: row;
 }
 
 .dashboard__items__item {
@@ -120,7 +121,7 @@ html {
     font-size: 1.5rem;
 
     padding: 1rem 1.5rem;
-    min-width: 13rem;
+    min-width: 10rem;
 
     border-radius: 1rem;
 
