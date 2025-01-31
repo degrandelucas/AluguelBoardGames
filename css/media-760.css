@@ -3,4 +3,9 @@
         /* font-size: 8px; */
         font-size: 50%;
     }
+
+    .divisor__line {
+        display: none;
+    }
+    
 }
